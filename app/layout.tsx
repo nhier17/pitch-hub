@@ -58,6 +58,9 @@ const workSans = localFont({
 export const metadata: Metadata = {
   title: "PitchHub",
   description: "Pitch your start up idea and grow",
+  icons: {
+    icon: "/logo.png",
+  }
 };
 
 export default function RootLayout({
