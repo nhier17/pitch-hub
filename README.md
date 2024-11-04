@@ -21,7 +21,7 @@ Pitch Hub is a nextjs 15 full-stack platform designed to help entrepreneurs, inn
 - Next.js
 - TypeScript
 - Sanity
-- Nexr-Auth
+- Next-Auth
 - TailwindCSS
 - ShadCN
 
@@ -89,7 +89,7 @@ NEXTAUTH_URL=
 
 ```
 
-Replace the placeholder values with your actual respective account credentials. You can obtain these credentials by signing up on the [Sanity] 
+Replace the placeholder values with your actual respective account credentials. You can obtain these credentials by signing up on the [Sanity](Sanity) 
 
 **Running the Project**
 
